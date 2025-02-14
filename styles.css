@@ -249,8 +249,8 @@ main {
     flex-direction: column; /* Asegura que el título esté arriba del texto */
     align-items: center; /* Centra todo */
     justify-content: center; /* Centra verticalmente si es necesario */
-    height: 100vh; 
-    font-size: xx-large;
+    height: 60vh; 
+    font-size: 45px;
 }
 
 
